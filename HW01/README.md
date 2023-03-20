@@ -66,8 +66,6 @@ Mobile commerce has been growing for years. Additionally, the increase in smartp
 
 In the US, popular mobile P2P platforms include Paypal's Venmo, Square's Cash App, and Zelle, with their relatively small gross payment volumes, P2P platforms are seeing rapid adoption. Cash App and Zelle, in particular, are relative latecomers, but they have surpassed earlier entrants Venmo in terms of app downloads and payment volume.
 
-
-
 <img src="https://play-lh.googleusercontent.com/YAKMX5YFcuE8_NogkbM7gkqrhBY6CUefbpULAVnNZLSitbo9S3Dw2FIYNqhW0d5G94Y=w480-h960" width="30%"> <img src="https://play-lh.googleusercontent.com/6RcPDQwPihY591Axu7e6mHhMZ22Q-dqeI5z9GkJiu4Hc-Xha77E6uoeplstYuv5RcnE=w480-h960" width="30%"> <img src="https://play-lh.googleusercontent.com/F4U2pL8z-Ic5FzCfe1xVXMWRvff6oEBIzDsyGRc4mE3bIUPiCfhuXXXvTOfcpVglKqs=w480-h960" width="30%">
 
 ## Results
