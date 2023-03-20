@@ -35,7 +35,7 @@ In December 2013, [PayPal](https://www.businesswire.com/news/home/20131219005777
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
 -->
-Digital payments have become increasingly widespread with the growth of e-commerce and mobile device infrastructure. As one of the largest online payment processors in the world, PayPal was established as Confinity in 1998 and was acquired by eBay in 2002. PayPal revolutionized the way people pay businesses online, but it did not developed a system for paying friends easily. 
+Digital payments have become increasingly widespread with the growth of e-commerce and mobile device infrastructure. As one of the largest online payment processors in the world, PayPal was established as Confinity in 1998 and was acquired by eBay in 2002. PayPal revolutionized the way people pay businesses online, but it did not develope a system for paying friends easily. 
 
 Venmo was launched in 2009 to fill this void as a fee-free, digital way to ferry money between friends. It was aimed at friends and family who wish to split bills, e.g. for movies, dinner, rent, or event tickets etc. The app also pioneered the idea of social payments by publishing users’ transactions and memos in an emoji-filled conversational stream—catnip for millennials ([Ref](https://www.fastcompany.com/40400786/how-peer-to-peer-payment-pioneer-venmo-grew-up-and-got-serious)).
 
@@ -44,7 +44,7 @@ The first prototype worked over SMS and was incredibly simple. To send Iqram $20
 
 They quickly decided they needed to include a note with each payment so they could keep track of what each one was for. So, the input looked like this: “iqram 20 for chinese food.” On Iqram’s end, he’d receive a message saying, “kortina paid you $20 for chinese food.”
 
-The Venmo messages in people's SMS inbox started to look like a news feed of all the restaurants, bars, and shows we were going to. Andrew and Iqram decided that people should be able to share this stuff, so they added the #p option, which would make the payment show up in friends’ feeds on venmo.com ([Ref.](https://thehustle.co/how-venmo-started/)). The social aspect of the digital payment is a unique feature of Venmo. 
+The Venmo messages in people's SMS inbox started to look like a news feed of all the restaurants, bars, and shows we were going to. Andrew and Iqram decided that people should be able to share this stuff, so they added the #p option, which would make the payment show up in friends’ feeds on venmo.com ([Ref](https://thehustle.co/how-venmo-started/)). The social aspect of the digital payment is a unique feature of Venmo. 
 
 Currently, both Venmo and its competitor Zelle use Clearing House’s real-time-payments network to facilitate money transfers. For decades, retailers have protested the fees Visa and Mastercard charge them to accept credit and debit cards. “Pay by bank” is the latest effort to circumvent those fees by letting people pay directly from their bank accounts. The pay-by-bank product uses the real-time-payments (RTP) network operated by The Clearing House, an organization owned by 23 of the largest banks including Citibank, Wells Fargo and HSBC, with lower fees than the card networks ([Ref](https://www.forbes.com/sites/emilymason/2022/08/26/new-payment-service-using-same-tech-as-zelle-and-venmo-will-cut-out-visa-and-mastercard-fees/?sh=53ef73cd3343)).
 
@@ -66,7 +66,7 @@ Mobile commerce has been growing for years. Additionally, the increase in smartp
 
 In the US, popular mobile P2P platforms include Paypal's Venmo, Square's Cash App, and Zelle, with their relatively small gross payment volumes, P2P platforms are seeing rapid adoption. Cash App and Zelle, in particular, are relative latecomers, but they have surpassed earlier entrants Venmo in terms of app downloads and payment volume.
 
-<img src="https://play-lh.googleusercontent.com/YAKMX5YFcuE8_NogkbM7gkqrhBY6CUefbpULAVnNZLSitbo9S3Dw2FIYNqhW0d5G94Y=w480-h960" width="30%"> <img src="https://play-lh.googleusercontent.com/6RcPDQwPihY591Axu7e6mHhMZ22Q-dqeI5z9GkJiu4Hc-Xha77E6uoeplstYuv5RcnE=w480-h960" width="30%"> <img src="https://play-lh.googleusercontent.com/F4U2pL8z-Ic5FzCfe1xVXMWRvff6oEBIzDsyGRc4mE3bIUPiCfhuXXXvTOfcpVglKqs=w480-h960" width="30%">
+<img src="https://play-lh.googleusercontent.com/YAKMX5YFcuE8_NogkbM7gkqrhBY6CUefbpULAVnNZLSitbo9S3Dw2FIYNqhW0d5G94Y=w480-h960" width="15%"> <img src="https://play-lh.googleusercontent.com/6RcPDQwPihY591Axu7e6mHhMZ22Q-dqeI5z9GkJiu4Hc-Xha77E6uoeplstYuv5RcnE=w480-h960" width="15%"> <img src="https://play-lh.googleusercontent.com/F4U2pL8z-Ic5FzCfe1xVXMWRvff6oEBIzDsyGRc4mE3bIUPiCfhuXXXvTOfcpVglKqs=w480-h960" width="15%">
 
 ## Results
 
