@@ -12,7 +12,7 @@
 
 * How is the company funded? How much funding have they received?
 -->
-Venmo is an American Peer to Peer mobile payment service founded in 2009. The name "Venmmo" came from the Latin word "vendere" which means "to sell" and "mo" meaning mobile. It was founded by Andrew Kortina and Iqram Magdon-Ismail, who met as freshman roommates at the University of Pennsylvania. According to this [article](https://medium.com/@telgar/venmo-the-wallet-of-the-future-d45900b6811b), the idea came to them when Magdon-Ismail went to New York City to visit Kortina for the weekend and forgot his wallet. Kortina being the good friend that he is, covered Magdon-Ismail’s expenses for the weekend. When Magdon-Ismail was trying to pay back Kortina by mailing a check, they realized there must be a more streamline way to pay a friend.
+[Venmo](https://venmo.com/) is an American Peer to Peer mobile payment service founded in 2009. The name "Venmmo" came from the Latin word "vendere" which means "to sell" and "mo" meaning mobile. It was founded by Andrew Kortina and Iqram Magdon-Ismail, who met as freshman roommates at the University of Pennsylvania. According to this [article](https://medium.com/@telgar/venmo-the-wallet-of-the-future-d45900b6811b), the idea came to them when Magdon-Ismail went to New York City to visit Kortina for the weekend and forgot his wallet. Kortina being the good friend that he is, covered Magdon-Ismail’s expenses for the weekend. When Magdon-Ismail was trying to pay back Kortina by mailing a check, they realized there must be a more streamline way to pay a friend.
 
 ![](https://thehustle.co/wp-content/uploads/2017/10/Venmo-Founders.jpeg)
 Iqram Magdon-Ismail (left) and Andrew Kortina (right) (taken from this [link](https://thehustle.co/how-venmo-started/))
@@ -24,6 +24,8 @@ In May 2010, the company raised $1.2 million of seed money in a financing round 
 In 2012, the company was acquired by [Braintree](https://www.businesswire.com/news/home/20120817005685/en/Braintree-Acquires-Mobile-Payments-Platform-Venmo) for $26.2 million.
 
 In December 2013, [PayPal](https://www.businesswire.com/news/home/20131219005777/en/eBay-Completes-Acquisition-Global-Payments-Innovator-Braintree) acquired Braintree for $800 million.
+
+In April 2021, Venmo announced that it is beginning its roll out for the ability to buy, hold, and sell cryptocurrencies using the platform ([Ref](https://techcrunch.com/2021/04/20/venmo-adds-support-for-buying-holding-and-selling-cryptocurrencies/)).
 
 ## Business Activities
 <!--
@@ -68,15 +70,17 @@ In the US, popular mobile P2P platforms include Paypal's Venmo, Square's Cash Ap
 
 [<img src="https://play-lh.googleusercontent.com/YAKMX5YFcuE8_NogkbM7gkqrhBY6CUefbpULAVnNZLSitbo9S3Dw2FIYNqhW0d5G94Y=w480-h960" width="15%">](https://venmo.com/) [<img src="https://play-lh.googleusercontent.com/6RcPDQwPihY591Axu7e6mHhMZ22Q-dqeI5z9GkJiu4Hc-Xha77E6uoeplstYuv5RcnE=w480-h960" width="15%">](https://cash.app/) [<img src="https://play-lh.googleusercontent.com/F4U2pL8z-Ic5FzCfe1xVXMWRvff6oEBIzDsyGRc4mE3bIUPiCfhuXXXvTOfcpVglKqs=w480-h960" width="15%">](https://www.zellepay.com/)
 
-
 ## Results
-
+<!--
 * What has been the business impact of this company so far?
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
 * How is your company performing relative to competitors in the same domain?
+-->
+Venmo pioneered in the P2P payment. In 2022 the company handled $244 billion in transactions and generated $850 million in revenue ([Ref](https://www.businessofapps.com/data/venmo-statistics/)). However, it also faces challenges from the latecomers such as Cash App launched in 2013 and launched in 2016. The following figures show the annual revenue and annual payment volume for the three P2P platforms. The data are taken from [Ref1](https://www.businessofapps.com/data/venmo-statistics/) and [Ref2](https://www.businessofapps.com/data/cash-app-statistics/). The figures were made using Jupyter [notebook](venmo_cash_zelle.ipynb).
 
+![](venmo.png)
 
 ## Recommendations
 
