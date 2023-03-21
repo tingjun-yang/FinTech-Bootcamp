@@ -78,9 +78,10 @@ In the US, popular mobile P2P platforms include Paypal's Venmo, Square's Cash Ap
 
 * How is your company performing relative to competitors in the same domain?
 -->
-Venmo pioneered in the P2P payment. In 2022 the company handled $244 billion in transactions and generated $850 million in revenue ([Ref](https://www.businessofapps.com/data/venmo-statistics/)). However, it also faces challenges from the latecomers such as Cash App launched in 2013 and launched in 2016. The following figures show the annual revenue and annual payment volume for the three P2P platforms. The data are taken from [Ref1](https://www.businessofapps.com/data/venmo-statistics/) and [Ref2](https://www.businessofapps.com/data/cash-app-statistics/). The figures were made using Jupyter [notebook](venmo_cash_zelle.ipynb).
-
+Venmo pioneered in the P2P payment. In 2022 the company handled $244 billion in transactions and generated $850 million in revenue ([Ref](https://www.businessofapps.com/data/venmo-statistics/)). However, it also faces challenges from the latecomers such as Cash App launched in 2013 and Zelle launched in 2016. The following figures show the annual revenue and annual payment volume for the three P2P platforms. The data are taken from [Ref1](https://www.businessofapps.com/data/venmo-statistics/), [Ref2](https://www.businessofapps.com/data/cash-app-statistics/), [Ref3](https://buybitcoinworldwide.com/cash-app-statistics/) and [Ref4](https://www.insiderintelligence.com/chart/256010/us-peer-to-peer-p2p-mobile-payment-users-by-platform-2019-2026-millions). The figures were made using Jupyter [notebook](venmo_cash_zelle.ipynb).
 ![](venmo.png)
+
+It can be seen that even though Zelle still has the largest number of users, it has been surpassed in revenue and payment volume by the other two competitors. 
 
 ## Recommendations
 
