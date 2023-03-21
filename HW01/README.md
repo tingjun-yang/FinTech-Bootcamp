@@ -68,6 +68,7 @@ In the US, popular mobile P2P platforms include Paypal's Venmo, Square's Cash Ap
 
 [<img src="https://play-lh.googleusercontent.com/YAKMX5YFcuE8_NogkbM7gkqrhBY6CUefbpULAVnNZLSitbo9S3Dw2FIYNqhW0d5G94Y=w480-h960" width="15%">](https://venmo.com/) [<img src="https://play-lh.googleusercontent.com/6RcPDQwPihY591Axu7e6mHhMZ22Q-dqeI5z9GkJiu4Hc-Xha77E6uoeplstYuv5RcnE=w480-h960" width="15%">](https://cash.app/) [<img src="https://play-lh.googleusercontent.com/F4U2pL8z-Ic5FzCfe1xVXMWRvff6oEBIzDsyGRc4mE3bIUPiCfhuXXXvTOfcpVglKqs=w480-h960" width="15%">](https://www.zellepay.com/)
 
+
 ## Results
 
 * What has been the business impact of this company so far?
